@@ -1,4 +1,4 @@
-module github.com/dfuxionx/oas
+module github.com/dFusionX/oas
 
 go 1.22
 
